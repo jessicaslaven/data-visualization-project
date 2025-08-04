@@ -2,7 +2,7 @@
 
 For this project, I used the ggplot2 package in RStudio to visualize the athletes_1 dataset in various ways.  
 
-This is a beginner level data visualization that produces the following visuals:  
+This is a beginner level data visualization project that produces the following visuals:  
  -scatterplot  
 -vertical bar chart  
 -boxplot  
